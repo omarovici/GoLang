@@ -1,3 +1,3 @@
-module GoLang
+module example.com/investment-calculator
 
 go 1.26
